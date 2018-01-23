@@ -10,5 +10,8 @@ Just download it and install PyAudio, speechrecognition and pillow from the Comm
 
     pip install PyAudio
 
-Follow instructions given in the application for following through how to make generate the hologram from your given image path!
+Follow instructions given in the script for following through how to make generate the hologram from your given image path!
+
+Executable version AVAILABLE at https://github.com/AnkanDas22/HologramMakerVoiceEdition
+
 Contact me @RektAlter or ankandas2222@gmail.com for any queries regarding this project.
