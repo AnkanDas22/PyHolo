@@ -8,16 +8,8 @@ Just download it and install the following packages from the Command Prompt usin
 
     pip install speechrecognition
     
-    pip install gtts
+    pip install PyAudio
     
-    pip install playsound
-    
-    pip install weather
-    
-    pip install PyLyrics
-    
-    pip install selenium
-
 Follow instructions given in the script for following through how to make generate the hologram from your given image path!
 
 Executable version AVAILABLE at https://github.com/AnkanDas22/HologramMakerVoiceEdition
