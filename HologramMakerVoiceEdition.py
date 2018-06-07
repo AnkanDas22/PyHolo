@@ -1,4 +1,3 @@
-@@ -1,187 +0,0 @@
 #made by Ankan Das, UEM-K
 from PIL import Image as p
 #for importing the pillow library for image processing
